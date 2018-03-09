@@ -1,0 +1,14 @@
+public class HelloJavinha{
+integer data_entrega;
+// COmentei \n
+string msgm; 
+
+data_entrega = !29 * 11 * 17;
+/*comentei e quebrei linha
+
+acabei aqui*/
+msgm = "Bom trabalho!"; //Comentário aqui também \n
+
+SystemOutDispln("Caros alunos, O TP ja esta disponivel.");
+}
+end
